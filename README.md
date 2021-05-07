@@ -2,7 +2,7 @@
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
-This challenge allows you to practice the concepts and techniques learned over the past sprint and apply them in a concrete project. This sprint explored some advanced React topics ⚛️. During this sprint, you studied **class components**, **the component lifecycle** and **class component lifecycle methods,** **custom hooks**, and **React Testing Library 🐙.** 
+This challenge allows you to practice the concepts and techniques learned over the past sprint and apply them in a concrete project. This sprint explored some advanced React topics ⚛️. During this sprint, you studied **class components**, **the component lifecycle** and **class component lifecycle methods,** **custom hooks**, and **React Testing Library 🐙.**
 
 In your challenge this week, you will demonstrate your mastery of these skills by creating an app that will fetch data from an internal server using a `class component`, displaying that data, using a `custom hook`, and `writing tests for your app.`
 
@@ -141,4 +141,10 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 3. Define stateful logic.
 
+It's like the special sauce that can make a component more versitile
+
 4. What are the three step of creating a successful test? What is done in each phase?
+
+Arrange.. Proper planning for a test
+Act.. Carry out an action
+Assert.. Making sure the work is done
